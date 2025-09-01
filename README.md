@@ -9,8 +9,8 @@ The goal is to figure out the best portfolio by balancing **risk** and **return*
 - Calculates **expected returns, volatility, and Sharpe Ratio**.  
 - Runs thousands of simulations to build an **Efficient Frontier**.  
 - Finds the two most interesting portfolios:
-  - ⭐ The one with the **highest Sharpe Ratio** (best risk-adjusted returns).  
-  - 🔵 The one with the **lowest volatility** (least risky).  
+  -  The one with the **highest Sharpe Ratio** (best risk-adjusted returns).  
+  -  The one with the **lowest volatility** (least risky).  
 - Backtests the optimized portfolio against **NIFTY50** to see how it performs.  
 - Adds a realistic constraint: no single stock can be more than **30% of the portfolio**.  
 
